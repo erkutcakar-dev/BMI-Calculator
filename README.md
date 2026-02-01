@@ -112,7 +112,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/BMI.git
+   git clone https://github.com/erkutcakar-dev/BMI.git
    cd BMI
    ```
 
@@ -282,6 +282,20 @@ For questions, issues, or suggestions, please open an issue on GitHub.
 
 **Made with .NET MAUI**
 
-[Report Bug](https://github.com/yourusername/BMI/issues) · [Request Feature](https://github.com/yourusername/BMI/issues) · [Documentation](https://github.com/yourusername/BMI/wiki)
+[Report Bug](https://github.com/erkutcakar-dev/BMI/issues) · [Request Feature](https://github.com/erkutcakar-dev/BMI/issues) · [Documentation](https://github.com/erkutcakar-dev/BMI/wiki)
 
 </div>
+
+## Images
+<img width="393" height="879" alt="Ekran görüntüsü 2026-02-01 135359" src="https://github.com/user-attachments/assets/934279b1-83f8-4b6f-8e36-e387726b3f8f" />
+
+## Images
+<img width="407" height="918" alt="Ekran görüntüsü 2026-02-01 135423" src="https://github.com/user-attachments/assets/665091de-19f8-4e54-9f06-a6596b7e92a4" />
+
+## Images
+<img width="398" height="913" alt="Ekran görüntüsü 2026-02-01 135452" src="https://github.com/user-attachments/assets/789acfa3-9cde-4cad-88d8-c4e26cb99ae0" />
+
+## Images
+<img width="404" height="841" alt="Ekran görüntüsü 2026-02-01 135440" src="https://github.com/user-attachments/assets/0fcf549e-08c9-4e41-a275-3d007c83df09" />
+
+
